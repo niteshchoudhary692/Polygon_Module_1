@@ -49,7 +49,7 @@ This project uses IPFS for hosting NFT metadata and images. [Pinata](https://pin
 
 ## Credits
 
-- Smart Contract Development: [Your Name](https://github.com/your-username)
+- Smart Contract Development: [Nitesh Choudhary](https://github.com/your-username)
 - AI Artwork: [Leonardo AI](https://leonardo.ai/)
 - IPFS Hosting: [Pinata](https://pinata.cloud/)
 
