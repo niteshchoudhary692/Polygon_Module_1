@@ -1,6 +1,6 @@
 # Avengers NFT Collection
 
-![Avengers NFT Collection](path/to/your/banner/image.png)
+![Avengers NFT Collection](https://gateway.pinata.cloud/ipfs/QmXvQrfXpkbG6MUVwQZEPx8uxNULewiLpG8XdQrciLzVFR/)
 
 The Avengers NFT Collection is a project that mints AI-generated NFTs featuring unique Avengers-themed artwork. This contract deploys an ERC721A-based smart contract on the Ethereum Goerli Testnet, allowing users to mint their own NFTs and potentially trade them on the secondary market.
 
